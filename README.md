@@ -4,7 +4,7 @@ A custom element for a [Hamburger Button](https://en.wikipedia.org/wiki/Hamburge
 
 ## Live Demo
 
-[Demo]()
+[Demo](https://firstprateek.github.io/hamburger-button/)
 
 ## Testing
 
