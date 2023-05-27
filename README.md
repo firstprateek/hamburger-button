@@ -1,18 +1,10 @@
-# LitElement JavaScript starter
+# hamburger-button
 
-This project includes a sample component using LitElement with JavaScript.
+A custom element for a [Hamburger Button](https://en.wikipedia.org/wiki/Hamburger_button). This custom element is created using the [LIT](https://lit.dev/) framework.
 
-This template is generated from the `lit-starter-js` package in [the main Lit
-repo](https://github.com/lit/lit). Issues and PRs for this template should be
-filed in that repo.
+## Live Demo
 
-## Setup
-
-Install dependencies:
-
-```bash
-npm i
-```
+[Demo]()
 
 ## Testing
 
