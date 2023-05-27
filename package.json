@@ -1,5 +1,5 @@
 {
-  "name": "hamburger-button",
+  "name": "hamburger-btn",
   "version": "1.0.0",
   "description": "A simple hamburger button web component",
   "main": "hamburger-button.js",
